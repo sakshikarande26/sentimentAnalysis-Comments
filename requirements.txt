@@ -1,0 +1,8 @@
+google-api-python-client
+textblob
+matplotlib
+urllib3
+streamlit
+python-dotenv
+requests
+matplotlib
